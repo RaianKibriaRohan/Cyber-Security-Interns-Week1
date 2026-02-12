@@ -19,7 +19,7 @@ This repository contains the findings for **Week 1: Security Assessment** of the
 | **Improper Error Handling** | Low | 🔵 Identified |
 
 ## 📂 Repository Contents
-- **[Week 1 Report](Week1_Vulnerability_Report.md):** Detailed breakdown of all vulnerabilities found, including proofs of concept and impact analysis.
+- **[Week 1 Report](Week1_Internship.pdf):** Detailed breakdown of all vulnerabilities found, including proofs of concept and impact analysis.
 - **Evidence Folder:** Contains screenshots validating the exploitation of these vulnerabilities.
 
 ## 🚀 Next Steps (Week 2)
